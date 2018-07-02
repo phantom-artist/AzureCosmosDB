@@ -10,7 +10,7 @@ import org.junit.jupiter.api.Test;
 import com.phantomartist.azure.cosmosdb.Document;
 
 /**
- * Title: CosmosDBDAOCloudTest
+ * Title: CosmosDBDAOTest
  *
  * Description: Demonstrates how to use a DAO-style approach using CosmosDB API
  */
