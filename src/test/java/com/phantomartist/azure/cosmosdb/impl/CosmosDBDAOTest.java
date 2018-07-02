@@ -14,7 +14,7 @@ import com.phantomartist.azure.cosmosdb.Document;
  *
  * Description: Demonstrates how to use a DAO-style approach using CosmosDB API
  */
-@Disabled( "For illustration purposes only, see CosmosDBAPICloudTest for executable tests")
+@Disabled( "For illustration purposes only")
 class CosmosDBDAOTest {
 
     @SuppressWarnings({ "unchecked", "unused" })
